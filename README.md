@@ -1,5 +1,9 @@
 ## Hello, my name is Filip. 👋
-- 🔭 I’m currently working at [Red Hat](https://www.redhat.com/en) on [Tooling for Apache Camel](https://camel.apache.org/) and a testing framework called [ExTester](https://github.com/redhat-developer/vscode-extension-tester)
-- 🏫 Currently enrolled in a Master's degree program in Computer Science
-- 📫 How to reach me: https://www.linkedin.com/in/filippospisil/
-- 😄 Pronouns: He/Him
+
+Quality Engineer | Developer Tooling, IDE Extensions & AI-Assisted Testing
+
+- 🔭 I’m currently looking for new work opportunities.
+- 📄 Resume: [https://github.com/pospisilf/resume](https://github.com/pospisilf/resume)
+- 💼 LinkedIn: [https://www.linkedin.com/in/filippospisil/](https://www.linkedin.com/in/filippospisil/)
+- 🏫 Master's degree in Computer Science, see [university-studies](https://github.com/pospisilf/university-studies)
+- 📫 How to reach me: [hello@filippospisil.cz](mailto:hello@filippospisil.cz)
