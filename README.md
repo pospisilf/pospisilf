@@ -2,7 +2,7 @@
 
 Quality Engineer | Developer Tooling, IDE Extensions & AI-Assisted Testing
 
-- 🔭 I’m currently looking for new work opportunities.
+- 👨‍💻 Software Engineer in Test @ [Vertice](https://www.vertice.one)
 - 📄 Resume: [https://github.com/pospisilf/resume](https://github.com/pospisilf/resume)
 - 💼 LinkedIn: [https://www.linkedin.com/in/filippospisil/](https://www.linkedin.com/in/filippospisil/)
 - 🏫 Master's degree in Computer Science, see [university-studies](https://github.com/pospisilf/university-studies)
